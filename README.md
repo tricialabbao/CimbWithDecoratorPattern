@@ -10,6 +10,5 @@ Benefits include the "Standard Savings Account" plus access to "GCash transfer".
 The UpSave account offers the highest interest rate of 4.0%.
 Benefits include the "Standard Savings Account" plus "with Insurance".
 
-
-
-<img width="765" height="496" alt="image" src="https://github.com/user-attachments/assets/fb3f2fc5-f75c-4e0c-852d-35a49dfb6c75" />
+# UML Diagram
+![UML Class Diagram](https://github.com/tricialabbao/CimbWithDecoratorPattern/blob/main/UML%20CIMB.png)
